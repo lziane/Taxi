@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Taxi" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:statusBarColor">@android:color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/bat_yellow</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_icon_layered</item>
+        <item name="postSplashScreenTheme">@style/Theme.Taxi</item>
+    </style>
+</resources>

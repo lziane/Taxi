@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_background">#0F172A</color>
+    <color name="card_background">#1E293B</color>
+    <color name="accent_color">#38BDF8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="transparent">#00000000</color>
+    <color name="semi_transparent_black">#88000000</color>
+
+    <color name="splash_bg">#000000</color>
+    <color name="bat_yellow">#FFD700</color>
+
+    <!-- Widget Adaptive Glass Design (Light Mode) -->
+    <color name="widget_bg_glass">#CCFFFFFF</color> <!-- 80% White -->
+    <color name="widget_bg_solid">#FFFFFF</color>
+    <color name="widget_inner_box">#1A000000</color> <!-- 10% Black -->
+    <color name="widget_text_main">#1C1C1E</color>
+    <color name="widget_text_blue">#007AFF</color>
+    <color name="widget_text_white">#FFFFFF</color>
+</resources>

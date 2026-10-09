@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="288dp"
+    android:height="288dp"
+    android:viewportWidth="288"
+    android:viewportHeight="288">
+
+    <!-- Un cercle blanc qui servira de fond pour l'icône dans le splash screen -->
+    <!-- On le centre dans le viewport de 288dp (la zone sûre est le cercle central de 160dp) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M144,144m-80,0a80,80 0,1 1,160 0a80,80 0,1 1,-160 0" />
+
+    <!-- Ici on pourrait mettre le contenu de l'icône, mais comme on a une image JPG,
+         on va plutôt utiliser un layer-list pour combiner le fond et l'image -->
+</vector>

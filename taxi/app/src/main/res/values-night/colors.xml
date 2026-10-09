@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_background">#0F172A</color>
+    <color name="card_background">#1E293B</color>
+
+    <!-- Widget Adaptive Glass Design (Dark Mode) -->
+    <color name="widget_bg_glass">#B31C1C1E</color> <!-- 70% Dark Grey/Black -->
+    <color name="widget_bg_solid">#1C1C1E</color>
+    <color name="widget_inner_box">#26FFFFFF</color> <!-- 15% White for contrast -->
+    <color name="widget_text_main">#FFFFFF</color>
+    <color name="widget_text_blue">#38BDF8</color> <!-- Lighter blue for dark background -->
+    <color name="widget_text_white">#FFFFFF</color>
+</resources>

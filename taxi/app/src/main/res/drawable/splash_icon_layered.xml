@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fond jaune identique au logo pour une fusion parfaite -->
+    <background android:drawable="@color/bat_yellow" />
+
+    <!-- L'image est réduite de 35% pour être sûr qu'elle rentre dans le cercle de sécurité -->
+    <foreground>
+        <inset
+            android:drawable="@drawable/app_image"
+            android:inset="35%" />
+    </foreground>
+</adaptive-icon>
